@@ -1,0 +1,14 @@
+# Build output
+/build/
+/build-debug/
+/out/
+/install/
+
+# Visual Studio / CMake local state
+.vs/
+CMakeUserPresets.json
+*.user
+
+# Logs / temp
+*.log
+*.tmp
